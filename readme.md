@@ -9,7 +9,8 @@ StudentID: 1100592
 
 ## Description
 
-Simple website that demonstrate web parsing to create links to pages and demo's cookies.
+A simple website that demonstrates web parsing from websites to create links and demo's cookie functionality.
+
 
 ## Requirenements
 
